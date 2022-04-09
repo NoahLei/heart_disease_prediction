@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/heart-disease-prediction/.idea/Heart-Disease-Prediction.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/heart-disease-prediction/.idea/Heart-Disease-Prediction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/heart_disease_prediction.iml" filepath="$PROJECT_DIR$/.idea/heart_disease_prediction.iml" />
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/.idea/projects.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/.idea/projects.iml" />
+    </modules>
+  </component>
+</project>
